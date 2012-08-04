@@ -2,7 +2,7 @@
 
 ## Demo
 
-http://pangout.shtuchkin.com
+http://pongout.shtuchkin.com
 
 ## Installation
 
