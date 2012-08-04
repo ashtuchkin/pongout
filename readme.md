@@ -9,13 +9,16 @@ http://pongout.shtuchkin.com
     git clone git://github.com/ashtuchkin/pongout.git
     cd pongout
 
+    # Launch on http://localhost:5000/
     node index.js
 
 ## How to play
 
-Launch the node and go to http://localhost:5000/ 2 players required minimum. 
+2 players required minimum. 
 Use your mouse to control the bat. Destroying bricks 
 gives you special powers (not in real world).
+
+If someone already plays, you are added to the spectators queue. Wait for your time.
 
 ## License: MIT
 
