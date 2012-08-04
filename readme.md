@@ -27,4 +27,4 @@ If someone already plays, you are added to the spectators queue. Wait for your t
 ## Authors:
  * Ivan Popelyshev (ivan.popelyshev@gmail.com)
  * Alex Shtuchkin (ashtuchkin@gmail.com)
-
+ * Idea by Dmitry Orlov
