@@ -8,6 +8,8 @@ http://pongout.shtuchkin.com
 
     git clone git://github.com/ashtuchkin/pongout.git
     cd pongout
+    
+    npm install
 
     # Launch on http://localhost:5000/
     node index.js
@@ -23,6 +25,6 @@ If someone already plays, you are added to the spectators queue. Wait for your t
 ## License: MIT
 
 ## Authors:
-Ivan Popelyshev (ivan.popelyshev@gmail.com)
-Alex Shtuchkin (ashtuchkin@gmail.com)
+ * Ivan Popelyshev (ivan.popelyshev@gmail.com)
+ * Alex Shtuchkin (ashtuchkin@gmail.com)
 
