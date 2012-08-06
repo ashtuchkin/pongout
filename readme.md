@@ -5,14 +5,16 @@
 http://pongout.shtuchkin.com
 
 ## Installation
+First, install [node.js](http://nodejs.org) if you havent done that already.
+```shell
+git clone git://github.com/ashtuchkin/pongout.git
+cd pongout
 
-    git clone git://github.com/ashtuchkin/pongout.git
-    cd pongout
-    
-    npm install
+npm install
 
-    # Launch on http://localhost:5000/
-    node index.js
+# Launch on http://localhost:5000/
+node index.js
+```
 
 ## How to play
 
