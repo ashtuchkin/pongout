@@ -1,4 +1,4 @@
-# Pangout - hybrid of Pong & Breakout
+# Pongout - hybrid of Pong & Breakout
 
 ## Installation
 First, install [node.js](http://nodejs.org) if you havent done that already.
