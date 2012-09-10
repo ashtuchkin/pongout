@@ -1,9 +1,5 @@
 # Pangout - hybrid of Pong & Breakout
 
-## Demo
-
-http://pongout.shtuchkin.com
-
 ## Installation
 First, install [node.js](http://nodejs.org) if you havent done that already.
 ```shell
